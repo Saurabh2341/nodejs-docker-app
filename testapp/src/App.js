@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is testing for Adani.
+          Adani Testing.
         </p>
         <a
           className="App-link"
